@@ -12,10 +12,10 @@ This Jupyter Notebook contains a sequenced set of modular Python code blocks int
   * rfi-data.tsv
   * custom-stopwords.txt
 
-3. Then, from inside the repo directory, run jupyter notebook
+3. Then, from inside the repo directory, run
 
   ```
-$ jupyter notebook
+jupyter notebook
   ```
 
 4. Select `text-analytics.ipynb` and press "Run" to start executing the scripts
