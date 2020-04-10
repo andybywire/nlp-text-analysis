@@ -6,16 +6,16 @@ This Jupyter Notebook contains a sequenced set of modular Python code blocks int
 1. From the command line, clone this repo
 
   ```
-  git clone <this repo url>
+  git clone https://github.com/andybywire/nlp-text-analysis.git
   ```
 2. Copy the two text files to your desktop
   * rfi-data.tsv
   * custom-stopwords.txt
 
-3. Then, run jupyter notebook
+3. Then, from inside the repo directory, run jupyter notebook
 
   ```
-  jupyter notebook
+$ jupyter notebook
   ```
 
 4. Select `text-analytics.ipynb` and press "Run" to start executing the scripts
