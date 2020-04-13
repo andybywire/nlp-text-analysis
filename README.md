@@ -1,6 +1,6 @@
 # Keyword Extraction Using NLP
 
-This Jupyter Notebook contains a sequenced set of modular Python code blocks intended to help novices to natural language processing extract keywords and n-grams from unstructured user feedback. View the [accomanying article]() for background and more detail around sources and specific steps.
+This Jupyter Notebook contains a sequenced set of modular Python code blocks intended to help novices to natural language processing extract keywords and n-grams from unstructured user feedback. View the [accomanying article](https://www.andyfitzgeraldconsulting.com/writingkeyword-extraction-nlp/) for background and more detail around sources and specific steps.
 
 ## Running Notebook
 1. From the command line, clone this repo
